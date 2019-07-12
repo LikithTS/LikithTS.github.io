@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.philips.vitaskin.male.debug",
+    "sha256_cert_fingerprints":
+    ["AD:9E:40:E2:86:A7:98:3D:F4:98:BB:3E:12:4F:91:F7:61:9B:0E:33:D1:D6:F4:B3:F6:54:74:CF:14:A5:79:B5"]
+  }
+}]
